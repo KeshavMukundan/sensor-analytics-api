@@ -27,7 +27,9 @@ Stores sensor readings in Redis for fast caching and provides basic analytics li
     "value": 24.1,
     "unit": "celsius",
     "timestamp": "2025-07-22T14:35:15.678Z"
-  }```
+  }
+  ```
+
 
 
 
