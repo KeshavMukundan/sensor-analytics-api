@@ -45,4 +45,5 @@ Stores sensor readings in Redis for fast caching and provides basic analytics li
     "latest_living_room_temp": 25.1,
     "timestamp_of_analysis": "Mon, 23 Sep 2025 10:30:45"
   
-  }```
+  }
+  ```
