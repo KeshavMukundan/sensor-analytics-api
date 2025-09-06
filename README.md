@@ -21,7 +21,8 @@ Stores sensor readings in Redis for fast caching and provides basic analytics li
   Example:
 
 
-  ```{
+  ```
+  {
     "sensor_id": "kitchen_temp",
     "value": 24.1,
     "unit": "celsius",
@@ -35,7 +36,8 @@ Stores sensor readings in Redis for fast caching and provides basic analytics li
 
   Example:
   
-  ```{
+  ```
+  {
     "average_temperature_celsius": 24.5,
     "total_cached_readings": 500,
     "latest_living_room_temp": 25.1,
