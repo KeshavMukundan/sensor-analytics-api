@@ -9,7 +9,7 @@ Stores sensor readings in Redis for fast caching and provides basic analytics li
 - Analytics endpoint for average temperature and latest readings
 - Includes Python script to simulate sensor requests
 
-## Tech Stack
+## Built With
 - Python (Flask)
 - Redis
 - Requests (for simulation)
