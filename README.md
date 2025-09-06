@@ -15,7 +15,7 @@ Stores sensor readings in Redis for fast caching and provides basic analytics li
 - Requests (for simulation)
 
 
-API Endpoints
+## API Endpoints
 1. POST /sensor_data
 
 Example:
